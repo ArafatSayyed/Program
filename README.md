@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ArafatSayyed/Program/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ArafatSayyed/Program/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ArafatSayyed/Program/tree/master/0005-longest-palindromic-substring) |
 | [0189-rotate-array](https://github.com/ArafatSayyed/Program/tree/master/0189-rotate-array) |
 | [0905-sort-array-by-parity](https://github.com/ArafatSayyed/Program/tree/master/0905-sort-array-by-parity) |
 ## Sorting
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ArafatSayyed/Program/tree/master/0189-rotate-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ArafatSayyed/Program/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
