@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArafatSayyed/Program/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArafatSayyed/Program/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/ArafatSayyed/Program/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/ArafatSayyed/Program/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/ArafatSayyed/Program/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/ArafatSayyed/Program/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/ArafatSayyed/Program/tree/master/0905-sort-array-by-parity) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ArafatSayyed/Program/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/ArafatSayyed/Program/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ArafatSayyed/Program/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ArafatSayyed/Program/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/ArafatSayyed/Program/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/ArafatSayyed/Program/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ArafatSayyed/Program/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2469-convert-the-temperature](https://github.com/ArafatSayyed/Program/tree/master/2469-convert-the-temperature) |
 ## Dynamic Programming
@@ -61,9 +64,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ArafatSayyed/Program/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/ArafatSayyed/Program/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/ArafatSayyed/Program/tree/master/0724-find-pivot-index) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ArafatSayyed/Program/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ArafatSayyed/Program/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
