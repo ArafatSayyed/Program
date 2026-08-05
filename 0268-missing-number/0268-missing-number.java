@@ -2,7 +2,9 @@ class Solution
 {
     public int missingNumber(int[] nums)
     {
-        for (int i = 0; i < nums.length; i++)
+//        Array.sort(nums);
+        Arrays.sort(nums);
+        /*for (int i = 0; i < nums.length; i++)
         {
             for (int j = 0; j < nums.length - 1; j++)
             {
@@ -13,7 +15,7 @@ class Solution
                     nums[j + 1] = temp;
                 }
             }
-        }
+        }*/
         for (int i = 0; i < nums.length; i++)
         {
             if (nums[i] != i)
