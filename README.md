@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ArafatSayyed/Program/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/ArafatSayyed/Program/tree/master/0905-sort-array-by-parity) |
 | [1929-concatenation-of-array](https://github.com/ArafatSayyed/Program/tree/master/1929-concatenation-of-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/ArafatSayyed/Program/tree/master/2367-number-of-arithmetic-triplets) |
 | [3523-make-array-non-decreasing](https://github.com/ArafatSayyed/Program/tree/master/3523-make-array-non-decreasing) |
 ## Greedy
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArafatSayyed/Program/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ArafatSayyed/Program/tree/master/0189-rotate-array) |
 | [0905-sort-array-by-parity](https://github.com/ArafatSayyed/Program/tree/master/0905-sort-array-by-parity) |
+| [2367-number-of-arithmetic-triplets](https://github.com/ArafatSayyed/Program/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ArafatSayyed/Program/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ArafatSayyed/Program/tree/master/0268-missing-number) |
+| [2367-number-of-arithmetic-triplets](https://github.com/ArafatSayyed/Program/tree/master/2367-number-of-arithmetic-triplets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ArafatSayyed/Program/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/ArafatSayyed/Program/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
