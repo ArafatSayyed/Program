@@ -102,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/ArafatSayyed/Program/tree/master/2367-number-of-arithmetic-triplets) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/ArafatSayyed/Program/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
