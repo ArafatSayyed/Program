@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ArafatSayyed/Program/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArafatSayyed/Program/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ArafatSayyed/Program/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/ArafatSayyed/Program/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/ArafatSayyed/Program/tree/master/0905-sort-array-by-parity) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ArafatSayyed/Program/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sorting
@@ -106,4 +107,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/ArafatSayyed/Program/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ArafatSayyed/Program/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
