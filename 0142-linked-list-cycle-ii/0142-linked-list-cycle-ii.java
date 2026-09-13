@@ -12,12 +12,11 @@ public class Solution
             if (slow == fast)
             {
                 while (slow != temp)
-{
-    slow = slow.next;
-    temp = temp.next;
-}
-
-return slow;
+                {
+                    slow = slow.next;
+                    temp = temp.next;
+                }
+                return slow;
             }
         }
         return null;
