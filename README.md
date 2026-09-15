@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ArafatSayyed/Program/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/ArafatSayyed/Program/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/ArafatSayyed/Program/tree/master/0905-sort-array-by-parity) |
+| [1480-running-sum-of-1d-array](https://github.com/ArafatSayyed/Program/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/ArafatSayyed/Program/tree/master/1929-concatenation-of-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ArafatSayyed/Program/tree/master/2367-number-of-arithmetic-triplets) |
 | [3523-make-array-non-decreasing](https://github.com/ArafatSayyed/Program/tree/master/3523-make-array-non-decreasing) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/ArafatSayyed/Program/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/ArafatSayyed/Program/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
