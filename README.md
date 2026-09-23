@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ArafatSayyed/Program/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ArafatSayyed/Program/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/ArafatSayyed/Program/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/ArafatSayyed/Program/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/ArafatSayyed/Program/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/ArafatSayyed/Program/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/ArafatSayyed/Program/tree/master/1480-running-sum-of-1d-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/ArafatSayyed/Program/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/ArafatSayyed/Program/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ArafatSayyed/Program/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/ArafatSayyed/Program/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
