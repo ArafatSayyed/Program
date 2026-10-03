@@ -1,8 +1,8 @@
 class Solution
 {
-    public void deleteNode(ListNode node)
+    public void deleteNode(ListNode target)
     {
-        node.val = node.next.val;
-        node.next = node.next.next;   
+         target.val = target.next.val;
+         target.next = target.next.next;
     }
 }
