@@ -6,10 +6,8 @@ class Solution
         {
             return null;
         }
-
         ListNode i = head;
         ListNode j = head;
-
         while (j != null)
         {
             if (i.val == j.val)
@@ -22,9 +20,7 @@ class Solution
                 i = j;
             }
         }
-
         i.next = null;
-
         return head;
     }
 }
