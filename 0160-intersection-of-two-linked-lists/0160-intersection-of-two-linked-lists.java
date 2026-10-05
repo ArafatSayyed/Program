@@ -9,6 +9,7 @@ public class Solution
             tempA = tempA.next;
             lenA++;
         }
+        tempA = headA;
         int lenB = 0;
         ListNode tempB = headB;
         while (tempB != null)
@@ -16,7 +17,6 @@ public class Solution
             tempB = tempB.next;
             lenB++;
         }
-        tempA = headA;
         tempB = headB;
         if (lenA > lenB)
         {
