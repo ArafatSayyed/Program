@@ -17,16 +17,16 @@ public class Solution
                 break;
             }
         }
-        if (fast != slow)
+        if (slow != fast)
         {
-            return null;  
+            return null;
         }
         ListNode temp = head;
         while (temp != slow)
-        {   
-            temp = temp.next;
+        {
             slow = slow.next;
-        }     
-        return slow;   
+            temp = temp.next;
+        }
+        return slow;
     }
 }
