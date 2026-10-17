@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ArafatSayyed/Program/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ArafatSayyed/Program/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ArafatSayyed/Program/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/ArafatSayyed/Program/tree/master/0326-power-of-three) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ArafatSayyed/Program/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2469-convert-the-temperature](https://github.com/ArafatSayyed/Program/tree/master/2469-convert-the-temperature) |
 ## Dynamic Programming
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ArafatSayyed/Program/tree/master/0021-merge-two-sorted-lists) |
+| [0326-power-of-three](https://github.com/ArafatSayyed/Program/tree/master/0326-power-of-three) |
 ## Quicksort
 |  |
 | ------- |
