@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ArafatSayyed/Program/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/ArafatSayyed/Program/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/ArafatSayyed/Program/tree/master/0905-sort-array-by-parity) |
+| [1095-find-in-mountain-array](https://github.com/ArafatSayyed/Program/tree/master/1095-find-in-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ArafatSayyed/Program/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/ArafatSayyed/Program/tree/master/1929-concatenation-of-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ArafatSayyed/Program/tree/master/2367-number-of-arithmetic-triplets) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/ArafatSayyed/Program/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/ArafatSayyed/Program/tree/master/0875-koko-eating-bananas) |
+| [1095-find-in-mountain-array](https://github.com/ArafatSayyed/Program/tree/master/1095-find-in-mountain-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -167,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ArafatSayyed/Program/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ArafatSayyed/Program/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/ArafatSayyed/Program/tree/master/0867-transpose-matrix) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/ArafatSayyed/Program/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/ArafatSayyed/Program/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
