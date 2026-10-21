@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ArafatSayyed/Program/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/ArafatSayyed/Program/tree/master/0682-baseball-game) |
 | [3523-make-array-non-decreasing](https://github.com/ArafatSayyed/Program/tree/master/3523-make-array-non-decreasing) |
 ## Array
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ArafatSayyed/Program/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ArafatSayyed/Program/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ArafatSayyed/Program/tree/master/0268-missing-number) |
+| [0682-baseball-game](https://github.com/ArafatSayyed/Program/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/ArafatSayyed/Program/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/ArafatSayyed/Program/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/ArafatSayyed/Program/tree/master/0875-koko-eating-bananas) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ArafatSayyed/Program/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/ArafatSayyed/Program/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/ArafatSayyed/Program/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/ArafatSayyed/Program/tree/master/1929-concatenation-of-array) |
 ## Binary Search
