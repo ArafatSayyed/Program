@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ArafatSayyed/Program/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ArafatSayyed/Program/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/ArafatSayyed/Program/tree/master/0072-edit-distance) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ArafatSayyed/Program/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ArafatSayyed/Program/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/ArafatSayyed/Program/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ArafatSayyed/Program/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3523-make-array-non-decreasing](https://github.com/ArafatSayyed/Program/tree/master/3523-make-array-non-decreasing) |
 ## Array
 |  |
